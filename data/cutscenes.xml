@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCutscene xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Cutscene>
+		<Title>Legend of Everyone Else</Title>
+		<Type>Intro</Type>
+		<Dialog>Welcome traveler... Have you heard the news? Rumor has it that a horrible plague will befall the entire land of Ruumlak in just 3 days... I could spew the ol' "Only a great hero can save us now" but our only hope for survival lies with "Derik The Great", the same fool who spends hours looking for a helmet that is already on his head. Why you ask? Lets just say he caused this whole apocalypse mess in the first place. About a week ago Derik fumbled into the northern witch's coven in a drunken stupor. Turns out, witches do not take kindly to the groping of their bottoms by drunken idiots. Needless to say, the coven has decided to punish all of us for Derik's actions unless he returns to apologize... Say, you look like the honest and hard-working type, could you do me a favor and accompany Derik on his journey? It's not particularly fantastic or heroic but someone needs to look after that imbicile... What do you say traveler?</Dialog>
+	</Cutscene>
+	<Cutscene>
+		<Title>Game Over</Title>
+		<Type>Fail</Type>
+		<Dialog>Welcome again traveler... Talk around the town is that Derik didn't quite make it to the northern witch's coven, is this true? Ah, I see... Well I am going to go say goodbye to my wife and children. I hear the plague will be excruciatingly painful, blood draining from the eyes and all... Oh and don't forget liquification from the inside out. Don't worry though, it's not your fault. You were never the hero in this story anyway. Have a nice day traveler!</Dialog>
+	</Cutscene>
+	<Cutscene>
+		<Title>Success!</Title>
+		<Type>Win</Type>
+		<Dialog>Welcome again traveler... I heard the great news about Derik's adventure! I still can't believe that the witches didn't turn him into a frog, i'll tell you that is one frog nobody would ever kiss. Anyways, it would seem that my wife and children will live another day without liquified organs... Thank you for your help with keeping Derik alive and on track. Seeing as you are not the hero in this story, I can't really offer you anything other than a free ale on the house... Oh and don't forget to attend the parade for Derik tomorrow... You know, because he is the real hero here.</Dialog>
+	</Cutscene>
+</ArrayOfCutscene>
